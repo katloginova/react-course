@@ -1,0 +1,9 @@
+.list-todo{
+    text-align: left;
+    list-style: none;
+
+}
+
+.list-todo .list-todo__item{
+    list-style: none;
+}
